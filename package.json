@@ -1,0 +1,21 @@
+{
+  "name": "gold-dark-ui",
+  "displayName": "gold-dark-ui",
+  "description": "Gold dark theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gold Dark UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gold Dark UI-color-theme.json"
+      }
+    ]
+  }
+}
